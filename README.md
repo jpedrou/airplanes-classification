@@ -28,4 +28,4 @@ conda env create -f environment.yml
 ```bash
 conda activate env_name
 ```
-5. **The code can be running using the interactive window of Jupyter Notebook extension**.
+5. **The code can be executed using the interactive window of Jupyter Notebook extension**.
