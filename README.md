@@ -3,12 +3,10 @@ The goal of this project is to make a Convolucional Neural Network (CNN) that ca
 
 <img src='reports/figures/planes-label.png'>
 
-<div style='display: flex; width: 50%'>
-    <img src='reports/figures/model-loss.jpg'>
-    <img src='reports/figures/model-accuracy.jpg'>
-</div>
+<img width=388 src='reports/figures/model-loss.jpg'><img width=388 src='reports/figures/model-accuracy.jpg'>
+
 
 <br>
 
 **Goal**
-- Classify if it is an image of a commercial or military airplaine
+- Classify if it is an image of a commercial or military airplaine.
