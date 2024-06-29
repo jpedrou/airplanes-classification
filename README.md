@@ -9,4 +9,23 @@ The goal of this project is to make a Convolucional Neural Network (CNN) that ca
 <br>
 
 **Goal**
-- Classify if it is an image of a commercial or military airplaine.
+- Classify if an image is of a commercial or military airplaine.
+
+## Installation
+1. First, it's needed Anconda Distribution installed in the system.
+
+2. With Anconda already installed,deactivate the default environment if it's activated.
+```bash
+conda deactivate
+```
+
+3. Run in the project's root directory the following code to create the new env. Run in the terminal:
+```bash
+conda env create -f environment.yml
+```
+
+4. Now, it's time to activate the new env.
+```bash
+conda activate env_name
+```
+5. **The code can be running using the interactive window of Jupyter Notebook extension**.
