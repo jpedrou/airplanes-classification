@@ -1,5 +1,5 @@
 # Airplanes Classification
-The goal of this project is to make a Convolucional Neural Network (CNN) that can classify what type of plane is represented in the image. Were chosen 2 types of airplaines: commercial and military. **Data were collected from Google Images**. 
+The goal of this project is to make a Convolucional Neural Network (CNN) that can classify what type of plane is represented in the image. Were chosen 2 types of airplanes: commercial and military. **Data were collected from Google Images**. 
 
 <img height=517 src='reports/figures/main-image.png'>
 
@@ -9,7 +9,7 @@ The goal of this project is to make a Convolucional Neural Network (CNN) that ca
 <br>
 
 **Goal**
-- Classify if an image is of a commercial or military airplaine.
+- Classify if an image is of a commercial or military airplane.
 
 Where images with label = 0, mean commercial airplanes, while those with label = 1, military ones, as you can see in the image bellow.
 
