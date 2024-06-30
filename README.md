@@ -11,7 +11,7 @@ The goal of this project is to make a Convolucional Neural Network (CNN) that ca
 **Goal**
 - Classify if an image is of a commercial or military airplane.
 
-Where images with label = 0, mean commercial airplanes, while those with label = 1, military ones, as you can see in the image bellow.
+Where images with label = 0, mean commercial airplanes, while those with label = 1, military ones, as you can see in the images bellow.
 
 <img src='reports/figures/planes-label.png'>
 
