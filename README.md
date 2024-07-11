@@ -1,6 +1,6 @@
 # Airplanes Classification
 
-<img src='https://static.vecteezy.com/system/resources/previews/006/420/445/original/drawing-of-a-passenger-plane-with-unmounted-landing-gear-the-concept-of-aerial-aviation-vector.jpg'>
+<img width=600 src='https://static.vecteezy.com/system/resources/previews/006/420/445/original/drawing-of-a-passenger-plane-with-unmounted-landing-gear-the-concept-of-aerial-aviation-vector.jpg'>
 
 The goal of this project is to make a Convolucional Neural Network (CNN) that can classify what type of plane is represented in the image. Were chosen 2 types of airplanes: commercial and military. **Data were collected from Google Images**. 
 
