@@ -1,6 +1,6 @@
 # Airplanes Classification
 
-<img src='reports/figures/43b15774-465f-4162-9884-e1b002209811.png'>
+<img src='reports/figures/a-high-quality-image-of-a-modern-and-futuristic-fi-E6iCrEP0T0aZ3dNd1lwPkw-a25nF_zXRJCp3E0wpolS9Q.jpeg'>
 
 The goal of this project is to make a Convolucional Neural Network (CNN) that can classify what type of plane is represented in the image. Were chosen 2 types of airplanes: commercial and military. **Data were collected from Google Images**. 
 
