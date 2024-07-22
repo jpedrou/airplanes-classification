@@ -1,4 +1,4 @@
-<p align = 'center'><img width=150 src='reports/figures/unnamed.gif'></p>
+<p align = 'center'><img width=150 src='reports/figures/A modern fighter airplane in the base with a black background in a high quality pixel art sty.png'></p>
 <h1 align='center'>Airplanes Classification</h1>
 
 
